@@ -26,11 +26,11 @@
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="xingmegshuo" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :office: &nbsp;I'm currently working at **[cdf°]**
+- :seedling: &nbsp;I’m currently use **Go** working
+<!-- - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS** -->
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[email](xms.chnb@gamil.com)**
 
 <br>
 
@@ -40,12 +40,12 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#xingmegshuo-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#xingmegshuo-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
@@ -58,19 +58,19 @@
       </a>
       <br>Go
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#xingmegshuo-tech">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Jsonnet
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <a href="#xingmegshuo-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <a href="#xingmegshuo-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
@@ -81,19 +81,19 @@
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <a href="#xingmegshuo-tech">
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <a href="#xingmegshuo-tech">
         <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
@@ -108,24 +108,24 @@
       </a>
       <br>Kubernetes
     </td>
-    <td align="center"  width="96">
+    <!-- <td align="center"  width="96">
       <a href="#xingmegshuo-tech">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
-    </td>
-    <td align="center"  width="96">
+    </td> -->
+    <!-- <td align="center"  width="96">
       <a href="#xingmegshuo-tech">
         <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
       </a>
       <br>RHEL
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <a href="#xingmegshuo-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
-    </td>
+    </td> -->
     <td align="center"  width="96">
       <a href="#xingmegshuo-tech">
         <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
@@ -144,18 +144,18 @@
       </a>
       <br>Prometheus
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#xingmegshuo-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
       </a>
       <br>Thanos
-    </td>
+    </td> -->
   </tr>
 </table>
 
 <h2 align="left">Coding Activity</h2>
 
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://xingmegshuo.readthedocs.io/en/latest/#dynamic-ascii-graph)
+> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://MacroPower.readthedocs.io/en/latest/#dynamic-ascii-graph)
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->

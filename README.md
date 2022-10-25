@@ -68,25 +68,6 @@
 
   </tr>
   <tr>
-
-    <!-- <td align="center"  width="96">
-      <a href="#xingmegshuo-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td> -->
-    <!-- <td align="center"  width="96">
-      <a href="#xingmegshuo-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td> -->
-    <!-- <td align="center" width="96">
-      <a href="#xingmegshuo-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td> -->
     <td align="center"  width="96">
       <a href="#xingmegshuo-tech">
         <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
@@ -105,12 +86,6 @@
       </a>
       <br>Prometheus
     </td>
-    <!-- <td align="center" width="96">
-      <a href="#xingmegshuo-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
-    </td> -->
   </tr>
 </table>
 

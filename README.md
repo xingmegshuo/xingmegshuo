@@ -41,12 +41,6 @@
 
 <table>
   <tr>
-    <!-- <td align="center" width="96">
-      <a href="#xingmegshuo-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
-    </td> -->
     <td align="center" width="96">
       <a href="#xingmegshuo-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
@@ -71,42 +65,6 @@
       </a>
       <br>Kubernetes
     </td>
-    <!-- <td align="center" width="96">
-      <a href="#xingmegshuo-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td> -->
-    <!-- <td align="center" width="96">
-      <a href="#xingmegshuo-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td> -->
-    <!-- <td align="center" width="96">
-      <a href="#xingmegshuo-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#xingmegshuo-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td> -->
-    <!-- <td align="center" width="96">
-      <a href="#xingmegshuo-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td> -->
-    <!-- <td align="center" width="96">
-      <a href="#xingmegshuo-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td> -->
 
   </tr>
   <tr>

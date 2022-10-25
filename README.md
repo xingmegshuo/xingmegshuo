@@ -23,9 +23,9 @@
 </p>
 
 [![SulthanNK's github stats](https://github-readme-stats.vercel.app/api?username=xingmegshuo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/github-readme-stats)
-<a href="#xingmegshuo-title">
+<!-- <a href="#xingmegshuo-title">
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="xingmegshuo" align="right" />
-</a>
+</a> -->
 
 - :office: &nbsp;I'm currently working at **[cdf°]**
 - :seedling: &nbsp;I’m currently use **Go** working
@@ -154,18 +154,18 @@
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
+<!-- <h2 align="left">Coding Activity</h2>
 
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://MacroPower.readthedocs.io/en/latest/#dynamic-ascii-graph)
+> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://MacroPower.readthedocs.io/en/latest/#dynamic-ascii-graph) -->
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
 
-```
+<!-- ```
 
              ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
             -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
+``` -->
 
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->

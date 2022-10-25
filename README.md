@@ -1,21 +1,21 @@
 <h1 align="left" id="xingmegshuo-title">:wave: Hello there! I'm small ant</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+<h3 align="left">I am a mover, copy codes</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="https://github.com/xingmegshuo/xingmegshuo">
     <img src="https://komarev.com/ghpvc/?username=xingmegshuo" alt="page views" />
   </a>
-  <a href="https://xingmegshuo.readthedocs.io/en/latest">
+  <!-- <a href="https://xingmegshuo.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/xingmegshuo?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
+  </a> -->
+  <!-- <a href="https://stackoverflow.com/users/4868262">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/xingmegshuo">
+  </a> -->
+  <!-- <a href="https://reddit.com/u/xingmegshuo">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/xingmegshuo?label=karma&logo=reddit">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  </a> -->
+  <a href="https://github.com/xingmegshuo?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/xingmegshuo?color=green&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">

@@ -4,11 +4,10 @@
     "Homelabbing",
     "Jsonnet",
     "Versatilist",
-    "macropower",
+    "xingmegshuo",
     "redhat"
   ],
   "editor.renderWhitespace": "all",
   "editor.renderControlCharacters": true,
-  "editor.renderIndentGuides": true,
   "files.eol": "\n"
 }
